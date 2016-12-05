@@ -1,0 +1,51 @@
+c:\users\nk2316-0\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+c:\users\nk2316-0\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+c:\users\nk2316-0\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+c:\users\nk2316-0\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+c:\users\nk2316-0\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+c:\users\nk2316-0\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+c:\users\nk2316-0\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+c:\users\nk2316-0\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+c:\users\nk2316-0\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+F:\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+F:\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+F:\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+F:\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+F:\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+F:\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+F:\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+F:\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+F:\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+J:\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+J:\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+J:\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+J:\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+J:\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+J:\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+J:\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+J:\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+J:\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+F:\มข\โปรเจค\593410070-0_แปลงค่าน้ำหนัก\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+F:\มข\โปรเจค\593410070-0_แปลงค่าน้ำหนัก\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+F:\มข\โปรเจค\593410070-0_แปลงค่าน้ำหนัก\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+F:\593410070-0_แปลงค่าน้ำหนัก\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+F:\593410070-0_แปลงค่าน้ำหนัก\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+F:\593410070-0_แปลงค่าน้ำหนัก\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+F:\593410070-0_แปลงค่าน้ำหนัก\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+F:\593410070-0_แปลงค่าน้ำหนัก\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+F:\593410070-0_แปลงค่าน้ำหนัก\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+F:\593410070-0_แปลงค่าน้ำหนัก\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+F:\593410070-0_แปลงค่าน้ำหนัก\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+F:\593410070-0_แปลงค่าน้ำหนัก\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\Windows\Desktop\593410070-0_แปลงค่าน้ำหนัก\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\Windows\Desktop\593410070-0_แปลงค่าน้ำหนัก\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\Windows\Desktop\593410070-0_แปลงค่าน้ำหนัก\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\Windows\Desktop\593410070-0_แปลงค่าน้ำหนัก\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\Windows\Desktop\593410070-0_แปลงค่าน้ำหนัก\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\Windows\Desktop\593410070-0_แปลงค่าน้ำหนัก\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\Windows\Desktop\593410070-0_แปลงค่าน้ำหนัก\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\Windows\Desktop\593410070-0_แปลงค่าน้ำหนัก\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\Windows\Desktop\593410070-0_แปลงค่าน้ำหนัก\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\Desktop\Desktop\593410070-0_แปลงค่าน้ำหนัก\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\Desktop\Desktop\593410070-0_แปลงค่าน้ำหนัก\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\Desktop\Desktop\593410070-0_แปลงค่าน้ำหนัก\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
